@@ -1,0 +1,50 @@
+body
+{
+    background-image: url(imagenfondo.jpg);
+    
+    
+}
+h2 /*Personaje principal*/
+{
+    color:brown;
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'Tourney', cursive;
+    text-align: center;
+    background-color: black;
+
+
+}
+h1
+{ /* titulo*/
+    text-align: center;
+    background-color: black;
+
+    font-family: 'IBM Plex Mono', monospace;
+}
+p
+{
+    color: lawngreen;
+    font-family: 'IBM Plex Mono', monospace;
+    
+}
+.img{
+    display: flex;
+    justify-content: center;
+    
+}
+em{
+    color: lawngreen;
+    font-family: 'IBM Plex Mono', monospace;
+}
+.Personaje1{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    
+}
+a{
+    font-family: 'IBM Plex Mono', monospace;
+    color:gold;
+    text-align: center;
+    background-color: black;
+}
